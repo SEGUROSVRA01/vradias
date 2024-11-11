@@ -10,7 +10,7 @@ body {
 
 .card {
     background: color(white);
-    border-radius: 5px;
+    border-radius: 4px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Sombra más prominente */
     padding: 40px; /* Aumenta el padding para más espacio */
     width: 90%; /* Ancho responsivo */
@@ -108,10 +108,6 @@ h1 {
     text-align: left; /*Para agregar el texto a la Izquierda */
 }
 
-p {
-   font-size: 16px; /* Para cambiar el tamano  de letra a los parrafos */
-}
-
 h3 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* Modificacion tipo de letra de la Posicion */
     color: rgb(152, 159, 165);
@@ -123,12 +119,7 @@ h3 {
     margin-top: 10px;
     }
 
-img {
-    display: inline;  /* Logos con hipervicunlos */
-    width: 58px;  
-    height: 58px;
-    padding: 5px;
-    border-radius: 20px;
+
 
 }
 
